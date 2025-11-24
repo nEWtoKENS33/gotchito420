@@ -280,11 +280,11 @@ export default function Home() {
            style={{ color: "#b7b9ff" }}>
           <IconX width={22} height={22} />
         </a>
-        <a href="https://farcaster.xyz/Gotchix420" target="_blank" rel="noreferrer" title="Farcaster"
+        <a href="#" target="_blank" rel="noreferrer" title="Farcaster"
            style={{ color: "#b7b9ff" }}>
           <IconFarcaster width={22} height={22} />
         </a>
-        <a href="https://clanker.world" target="_blank" rel="noreferrer" title="Clanker"
+        <a href="https://nad.fun" target="_blank" rel="noreferrer" title="NadFun"
            style={{ color: "#b7b9ff" }}>
           <IconClanker width={22} height={22} />
         </a>
